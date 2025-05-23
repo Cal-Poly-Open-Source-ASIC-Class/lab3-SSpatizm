@@ -14,7 +14,7 @@ Your task is to design, test, and lay out a 2-port wishbone-accessible RAM.
 # Part 1: RTL Design and Testing
 ## Signal Naming
 Hi. This is Eugene here.
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/15788ea1-77f8-4dd5-92bc-f0a191776fc7)
 
 That was my openroad design
 
