@@ -13,6 +13,12 @@ Your task is to design, test, and lay out a 2-port wishbone-accessible RAM.
 
 # Part 1: RTL Design and Testing
 ## Signal Naming
+Hi. This is Eugene here.
+![alt text](image.png)
+
+That was my openroad design
+
+
 There are many ways of naming bus signals. We are going to go with the following convention:
 `<port>_<signal>_<direction>`
 
